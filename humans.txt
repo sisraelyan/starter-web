@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <TWitter>
-	Sam sisraelytan@vmware.com
+	Sam sisraelytan@vmware.com --
 
 # THANKS
 
